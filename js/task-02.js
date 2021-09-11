@@ -13,7 +13,4 @@ const foodEl = ingredients.forEach(ingredient => {
    listEL.textContent = ingredient;
    ingredientsContainerEL.append(listEL);
    
-
-  
 });
-console.log(ingredientsContainerEL)
